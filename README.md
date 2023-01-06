@@ -14,7 +14,7 @@ mkdir bin
 zsh ./1.sh
 ```
 
-## Change
+## CHANGE
 
 与原本的代码相比做了如下修改：
 
