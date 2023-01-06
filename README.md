@@ -1,6 +1,6 @@
 # MyPaxos
 
-基于https://github.com/lyandut/HUST-Invictus修改的Paxos代码，可以在MacOS操作系统上正确运行
+基于 https://github.com/lyandut/HUST-Invictus 修改的Paxos代码，可以在MacOS操作系统上正确运行
 
 ## USEAGE
 
